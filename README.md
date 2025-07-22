@@ -20,6 +20,10 @@ This repository contains a series of SQL query exercises performed on multiple d
 - Product and transaction data.
 - Includes customer behaviors, pricing analysis, and order aggregation.
 
+### 5. Election
+- Voting data for analyzing results and trends.
+- Focus on voter turnout, party performance, and vote distribution.
+
 ## 📌 Objectives
 
 - Execute SQL queries for filtering, sorting, and grouping.
